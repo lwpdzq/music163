@@ -15,7 +15,8 @@
 
 #### 歌手粉丝地域分布
 - 调用百度地图api实现
--　ak字段需要自己到<a href="http://lbsyun.baidu.com/">百度地图</a>申请
+- ak字段需要自己到<a href="http://lbsyun.baidu.com/">百度地图</a>申请
+- 创意来自与<a href="https://github.com/zyingzhou/music163-spiders">zyingzhou</a>的项目，在此声明，感谢！
 
 ## 运行效果
 ![下载歌单音乐](https://github.com/lwpdzq/music163/blob/master/images/20181220194152.png)
